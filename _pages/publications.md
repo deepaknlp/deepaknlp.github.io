@@ -30,6 +30,20 @@ Deepak Gupta, Surabhi Kumari, Asif Ekbal, Pushpak Bhattacharyya <br />
 Deepak Gupta, Asif Ekbal, Pushpak Bhattacharyya <br />
 [11th edition of the Language Resources and Evaluation Conference](http://lrec2018.lrec-conf.org/) (LREC-2018), 2018. Miyazaki, Japan
 
+* *Feature selection and ensemble construction: A two-step method for aspect based sentiment analysis* <br />
+Md Shad Akhtar, Deepak Gupta, Asif Ekbal, Pushpak Bhattacharyya <br />
+[Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems)
+						          
+
+* *A Deep Neural Network Framework for English Hindi Question Answering* <br />
+          Deepak Gupta, Asif Ekbal, Pushpak Bhattacharyya <br />
+   [ACM Transactions on Asian and Low-Resource Language Information Processing](https://tallip.acm.org/) (under review) 
+
+
+* *Utilizing Deep Learning with an Information Retrieval Mechanism to Question Answering in Restricted Domains*    <br />
+Anutosh Maitra, Shubhashis Sengupta, Deepak Gupta, Rajkumar Pujari, Pushpak Bhattacharya, Asif Ekbal, Tom Geo Jain   <br />
+[US patent App. 15988911](https://patents.google.com/patent/US20180341871A1/en)
+
 
 * *Opinion Mining in a Code-Mixed Environment: A Case Study with Government Portals*  <br />
 Deepak Gupta, Ankit Lamba, Asif Ekbal and Pushpak Bhattacharyya <br />
@@ -44,19 +58,6 @@ Deepak Gupta, Shubham Kumar, Asif Ekbal  <br />
 [Forum for Information Retrieval Evaluation](https://www.isical.ac.in/~fire/2014/), 2014, Kolkata, India
 
 	
-* *Feature selection and ensemble construction: A two-step method for aspect based sentiment analysis* <br />
-Md Shad Akhtar, Deepak Gupta, Asif Ekbal, Pushpak Bhattacharyya <br />
-[Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems)
-						          
-
-* *A Deep Neural Network Framework for English Hindi Question Answering* <br />
-          Deepak Gupta, Asif Ekbal, Pushpak Bhattacharyya <br />
-   [ACM Transactions on Asian and Low-Resource Language Information Processing](https://tallip.acm.org/) (under review) 
-
-
-* *Utilizing Deep Learning with an Information Retrieval Mechanism to Question Answering in Restricted Domains*    <br />
-Anutosh Maitra, Shubhashis Sengupta, Deepak Gupta, Rajkumar Pujari, Pushpak Bhattacharya, Asif Ekbal, Tom Geo Jain   <br />
-[US patent App. 15988911](https://patents.google.com/patent/US20180341871A1/en)
 
 * *Auto Analysis of Customer Feedback using CNN and GRU Networks*  <br />
   Deepak Gupta, Pabitra Lenka, H Bedi, Asif Ekbal, Pushpak Bhattacharyya  <br />
