@@ -4,9 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* *Code-Mixed Question Generation and a Neural Framework for Code-Mixed Question Answering*</br>
-   Deepak Gupta, Pabitra Lenka, Asif Ekbal and Pushpak Bhattacharyya</br>
-   22nd International Conference on Computational Natural Language Learning (CoNLL 2018), 2018.  Brussels, Belgium
+* *Code-Mixed Question Generation and a Neural Framework for Code-Mixed Question Answering*
+   Deepak Gupta, Pabitra Lenka, Asif Ekbal and Pushpak Bhattacharyya
+   [22nd International Conference on Computational Natural Language Learning](https://www.conll.org/2018), (CoNLL 2018). Brussels, Belgium
+* *Styling with Attention to Details*  [[paper](https://arxiv.org/abs/1807.01182)]    
+  Ayushi Dalmia, Sachindra Joshi, Raghavendra Singh, Vikas C. Raykar    
+  [Workshop on AI for Fashion](https://kddfashion2018.mybluemix.net/) @ [KDD](http://www.kdd.org/kdd2018/), 2018, London, England
 
 * *Can Taxonomy Help? Improving Semantic Question Matching using Question Taxonomy* </br>
 Deepak Gupta, Rajkumar Pujari, Asif Ekbal, Pushpak Bhattacharyya, Anutosh Maitra, Tom Jain and Shubhashis Sengupta </br>
