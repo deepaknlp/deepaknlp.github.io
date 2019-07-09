@@ -21,4 +21,4 @@ My research aims at developing sophisticated system which can understand the nat
 * Our paper *"Code-Mixed Question Generation and a Neural Framework for Code-Mixed Question Answering"* has been accepted to be appear in 22nd International Conference on Computational Natural Language Learning [CoNLL 2018](http://www.conll.org/2018)
 * Visited [Microsoft Research, Montreal](https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/) as a research intern.
 * Our paper *"Can Taxonomy Help? Improving Semantic Question Matching using Question Taxonomy"* has been accepted to be appear in 27th International Conference on Computational Linguistics [COLING 2018](http://coling2018.org/)
-* Our paper *"Semantic Question Matching in Data Constrained Environment* has been accepted to be appear in 21st International Conference on Text, Speech and Dialogue [TSD 2018](https://www.tsdconference.org/tsd2018/)
+* Our paper *"Semantic Question Matching in Data Constrained Environment"* has been accepted to be appear in 21st International Conference on Text, Speech and Dialogue [TSD 2018](https://www.tsdconference.org/tsd2018/)
