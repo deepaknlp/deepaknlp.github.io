@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Deepak Kumar Gupta"
   avatar           : "profile.png"
-  bio              : "Research Scholar"
+  bio              : "PhD student"
   location         : "India"
-  employer         :
+  employer         : "Indian Institute of Technology Patna"
   pubmed           : 
   googlescholar    : "https://scholar.google.co.in/citations?user=sIfq1eYAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            :  "deepak.pcs16@iitp.ac.in"
+  researchgate     :  "https://www.researchgate.net/profile/Deepak_Gupta120"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         :"https://www.linkedin.com/in/deepakgupta651/"
   orcid            : 
   pinterest        :
   soundcloud       :
