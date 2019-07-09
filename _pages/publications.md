@@ -26,9 +26,8 @@ Deepak Gupta, Sarah Kohail, Pushpak Bhattacharyya <br />
 Deepak Gupta, Surabhi Kumari, Asif Ekbal, Pushpak Bhattacharyya <br />
 [11th edition of the Language Resources and Evaluation Conference](http://lrec2018.lrec-conf.org/) (LREC-2018), 2018. Miyazaki, Japan
 
-* *A Deep Neural Network based Approach for Entity Extraction in Code-Mixed Indian Social Media Text <br />
+* *A Deep Neural Network based Approach for Entity Extraction in Code-Mixed Indian Social Media Text* <br />
 Deepak Gupta, Asif Ekbal, Pushpak Bhattacharyya <br />
-
 [11th edition of the Language Resources and Evaluation Conference](http://lrec2018.lrec-conf.org/) (LREC-2018), 2018. Miyazaki, Japan
 
 
@@ -81,4 +80,4 @@ Deepak Gupta and Asif Ekbal<br/>
 [International Workshop on Semantic Evaluation](http://alt.qcri.org/semeval2014/task4/) (SemEval-14), Dublin, Ireland
 			 
 
-                    </ol><!-- /Portfolio Content -->
+
