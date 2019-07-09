@@ -7,45 +7,24 @@ author_profile: true
 * *Code-Mixed Question Generation and a Neural Framework for Code-Mixed Question Answering* <br />	
    Deepak Gupta, Pabitra Lenka, Asif Ekbal and Pushpak Bhattacharyya	<br />
    [22nd International Conference on Computational Natural Language Learning](https://www.conll.org/2018), (CoNLL 2018). Brussels, Belgium	
-* *Styling with Attention to Details*  [[paper](https://arxiv.org/abs/1807.01182)]    
-  Ayushi Dalmia, Sachindra Joshi, Raghavendra Singh, Vikas C. Raykar    
-  [Workshop on AI for Fashion](https://kddfashion2018.mybluemix.net/) @ [KDD](http://www.kdd.org/kdd2018/), 2018, London, England
 
-* *Can Taxonomy Help? Improving Semantic Question Matching using Question Taxonomy* </br>
-Deepak Gupta, Rajkumar Pujari, Asif Ekbal, Pushpak Bhattacharyya, Anutosh Maitra, Tom Jain and Shubhashis Sengupta </br>
-27th International Conference on Computational Linguistics (COLING 2018), 2018.  New-Mexico, USA
 
-			<em> Semantic Question Matching in Data Constrained Environment
+* *Can Taxonomy Help? Improving Semantic Question Matching using Question Taxonomy* <br />
+Deepak Gupta, Rajkumar Pujari, Asif Ekbal, Pushpak Bhattacharyya, Anutosh Maitra, Tom Jain and Shubhashis Sengupta <br />
+[27th International Conference on Computational Linguistics](http://coling2018.org/) (COLING 2018), 2018.  New-Mexico, USA
 
-</em> <br>Anutosh Maitra, Shubhashis Sengupta, Deepak Gupta, Rajkumar Pujari, Abhisek Mukhopadhyay, Pushpak Bhattacharya, Asif Ekbal, Tom Geo Jain 
+* *Semantic Question Matching in Data Constrained Environment* <br />
+Anutosh Maitra, Shubhashis Sengupta, Deepak Gupta, Rajkumar Pujari, Abhisek Mukhopadhyay, Pushpak Bhattacharya, Asif Ekbal, Tom Geo Jain <br />
+[21st International Conference on Text, Speech and Dialogue](https://www.tsdconference.org/tsd2018/) (TSD-2018), 2018.  Brno, Czech Republic
 
-<br> 21st International Conference on Text, Speech and Dialogue (<b>TSD-2018</b>), 2018.  Brno, Czech Republic
+* *Combining Graphbased Dependency Features with Convolutional Neural Network for Answer Triggering* <br />
+Deepak Gupta, Sarah Kohail, Pushpak Bhattacharyya <br />
+[19th International Conference on Computational Linguistics and Intelligent Text Processing](https://www.cicling.org/2018/) (CICling-2018), 2018. Hanoi, Vietnam
 
-			</li>
 
-					
-
-					<li class="f-conference view">
-
-			<em> Combining Graphbased
-
-Dependency Features with Convolutional Neural Network for Answer Triggering</em> <br>Deepak Gupta, Sarah Kohail, Pushpak Bhattacharyya
-
-<br> 19th International Conference on Computational Linguistics and Intelligent Text Processing (<b>CICling-2018</b>), 2018. Hanoi, Vietnam
-
-			</li>
-
-					
-
-				<li class="f-conference view">
-
-			<em> MMQA: A Multi-domain Multilingual
-
-Question-Answering Framework for English and Hindi</em> <br>Deepak Gupta, Surabhi Kumari, Asif Ekbal, Pushpak Bhattacharyya
-
-<br> 11th edition of the Language Resources
-
-and Evaluation Conference (<b>LREC-2018</b>), 2018. Miyazaki, Japan
+* *MMQA: A Multi-domain Multilingual Question-Answering Framework for English and Hindi* <br />
+Deepak Gupta, Surabhi Kumari, Asif Ekbal, Pushpak Bhattacharyya <br />
+[11th edition of the Language Resources and Evaluation Conference](http://lrec2018.lrec-conf.org/) (LREC-2018), 2018. Miyazaki, Japan
 
 			</li>
 
