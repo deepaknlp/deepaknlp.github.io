@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Deepak Kumar Gupta"
+title                    : "Deepak Gupta"
 title_separator          : "-"
-name                     : &name "Deepak Kumar Gupta"
+name                     : &name "Deepak Gupta"
 description              : &description "About me"
 url                      : https://deepaknlp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
