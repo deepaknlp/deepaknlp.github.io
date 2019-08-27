@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* *A Deep Neural Network Framework for English Hindi Question Answering* <br />
+          Deepak Gupta, Asif Ekbal, Pushpak Bhattacharyya <br />
+   [ACM Transactions on Asian and Low-Resource Language Information Processing](https://tallip.acm.org/)
 * *Code-Mixed Question Generation and a Neural Framework for Code-Mixed Question Answering* <br />	
    Deepak Gupta, Pabitra Lenka, Asif Ekbal and Pushpak Bhattacharyya	<br />
    [22nd International Conference on Computational Natural Language Learning](https://www.conll.org/2018), (CoNLL 2018). Brussels, Belgium	
@@ -34,11 +37,6 @@ Deepak Gupta, Asif Ekbal, Pushpak Bhattacharyya <br />
 Md Shad Akhtar, Deepak Gupta, Asif Ekbal, Pushpak Bhattacharyya <br />
 [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems)
 						          
-
-* *A Deep Neural Network Framework for English Hindi Question Answering* <br />
-          Deepak Gupta, Asif Ekbal, Pushpak Bhattacharyya <br />
-   [ACM Transactions on Asian and Low-Resource Language Information Processing](https://tallip.acm.org/) (under review) 
-
 
 * *Utilizing Deep Learning with an Information Retrieval Mechanism to Question Answering in Restricted Domains*    <br />
 Anutosh Maitra, Shubhashis Sengupta, Deepak Gupta, Rajkumar Pujari, Pushpak Bhattacharya, Asif Ekbal, Tom Geo Jain   <br />
