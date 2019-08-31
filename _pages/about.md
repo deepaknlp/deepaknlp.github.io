@@ -18,7 +18,7 @@ My research aims at developing sophisticated system which can understand the nat
 
 
 **Recent News**
-* Our paper *"A Deep Neural Network Framework for English Hindi Question Answering"* has been accepted to be appear in Asian Transaction on Asian and Low-Resource Language Information Processing ([TALLIP](https://tallip.acm.org/)).
+* Our paper *"A Deep Neural Network Framework for English Hindi Question Answering"* has been accepted to be appear in Transaction on Asian and Low-Resource Language Information Processing ([TALLIP](https://tallip.acm.org/)).
 * Our paper *"Code-Mixed Question Generation and a Neural Framework for Code-Mixed Question Answering"* has been accepted to be appear in 22nd International Conference on Computational Natural Language Learning [CoNLL 2018](http://www.conll.org/2018).
 * Visited [Microsoft Research, Montreal](https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/) as a research intern.
 * Our paper *"Can Taxonomy Help? Improving Semantic Question Matching using Question Taxonomy"* has been accepted to be appear in 27th International Conference on Computational Linguistics [COLING 2018](http://coling2018.org/).
