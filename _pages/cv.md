@@ -8,6 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-**CV**
 --------------------
 Download my CV from [here](https://drive.google.com/file/d/0B8tL-xiEN4WweG5xaDNyZWs2UTA/view?usp=sharing)
