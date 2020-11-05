@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* *[Reinforced Multi-task Approach for Multi-hop Question Generation] (https://arxiv.org/pdf/2004.02143.pdf)* <br />
+* *[Reinforced Multi-task Approach for Multi-hop Question Generation](https://arxiv.org/pdf/2004.02143.pdf)* <br />
           Deepak Gupta, Hardik Chauhan, Akella Ravi Tej, Asif Ekbal, Pushpak Bhattacharyya <br />
    The 28th International Conference on Computational Linguistics (COLING 2020)
  
