@@ -4,6 +4,22 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* *[Reinforced Multi-task Approach for Multi-hop Question Generation] (https://arxiv.org/pdf/2004.02143.pdf)* <br />
+          Deepak Gupta, Hardik Chauhan, Akella Ravi Tej, Asif Ekbal, Pushpak Bhattacharyya <br />
+   The 28th International Conference on Computational Linguistics (COLING 2020)
+ 
+* *A Semi-supervised Approach to Generate the Code-Mixed Text using Pre-trained Encoder and Transfer Learning* <br />
+          Deepak Gupta, Asif Ekbal, Pushpak Bhattacharyya <br />
+   The 2020 Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP 2020)
+
+* *[Hierarchical Deep Multi-modal Network for Medical Visual Question Answering](https://www.sciencedirect.com/science/article/abs/pii/S0957417420307697)* <br />
+          Deepak Gupta, Swati Suman, Asif Ekbal <br />
+   Expert Systems With Applications
+
+* *A Unified Framework for Multilingual and Code-Mixed Visual Question Answering* <br />
+          Deepak Gupta, Pabitra Lenka, Asif Ekbal, Pushpak Bhattacharyya <br />
+   AACL-IJCNLP 2020
+
 * *A Deep Neural Network Framework for English Hindi Question Answering* <br />
           Deepak Gupta, Asif Ekbal, Pushpak Bhattacharyya <br />
    [ACM Transactions on Asian and Low-Resource Language Information Processing](https://tallip.acm.org/)
