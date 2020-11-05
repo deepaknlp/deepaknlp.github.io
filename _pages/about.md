@@ -20,6 +20,6 @@ My research aims at developing sophisticated system which can understand the nat
 **Recent News**
 
 * Our paper *"[Reinforced Multi-task Approach for Multi-hop Question Generation](https://arxiv.org/pdf/2004.02143.pdf)"* has been accepted to be appear in **COLING 2020**.
-* Our paper *"[A Semi-supervised Approach to Generate the Code-Mixed Text using Pre-trained Encoder and Transfer Learning](https://github.com/deepaknlp/deepaknlp.github.io/blob/master/files/EMNLP_Code_Mixed_Camera_Ready.pdf)"* has been accepted to be appear in **Findings of EMNLP 2020**.
+* Our paper *"[A Semi-supervised Approach to Generate the Code-Mixed Text using Pre-trained Encoder and Transfer Learning](https://github.com/deepaknlp/deepaknlp.github.io/raw/master/files/EMNLP_Code_Mixed_Camera_Ready.pdf)"* has been accepted to be appear in **Findings of EMNLP 2020**.
 * Our paper *"[Hierarchical Deep Multi-modal Network for Medical Visual Question Answering](https://www.sciencedirect.com/science/article/abs/pii/S0957417420307697)"* has been accepted in **Expert Systems with Applications, Elsevier Journals** (IF: 5.452).
 * Our paper *"A Unified Framework for Multilingual and Code-Mixed Visual Question Answering"* has been accepted to be appear in **AACL-IJCNLP 2020**.
