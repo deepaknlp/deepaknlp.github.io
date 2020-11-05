@@ -14,7 +14,7 @@ author_profile: true
 
 * *[Hierarchical Deep Multi-modal Network for Medical Visual Question Answering](https://www.sciencedirect.com/science/article/abs/pii/S0957417420307697)* <br />
           Deepak Gupta, Swati Suman, Asif Ekbal <br />
-   [Expert Systems with Applications, Elsevier Journals (IF: 5.452)](https://www.journals.elsevier.com/expert-systems-with-applications)
+   [Expert Systems with Applications, Elsevier Journals](https://www.journals.elsevier.com/expert-systems-with-applications) (IF: 5.452)
 
 * *A Unified Framework for Multilingual and Code-Mixed Visual Question Answering* <br />
           Deepak Gupta, Pabitra Lenka, Asif Ekbal, Pushpak Bhattacharyya <br />
