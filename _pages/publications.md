@@ -8,7 +8,7 @@ author_profile: true
           Deepak Gupta, Hardik Chauhan, Akella Ravi Tej, Asif Ekbal, Pushpak Bhattacharyya <br />
    The 28th International Conference on Computational Linguistics (COLING 2020)
  
-* *[A Semi-supervised Approach to Generate the Code-Mixed Text using Pre-trained Encoder and Transfer Learning](https://github.com/deepaknlp/deepaknlp.github.io/blob/master/files/EMNLP_Code_Mixed_Camera_Ready.pdf)* <br />
+* *[A Semi-supervised Approach to Generate the Code-Mixed Text using Pre-trained Encoder and Transfer Learning](https://github.com/deepaknlp/deepaknlp.github.io/raw/master/files/EMNLP_Code_Mixed_Camera_Ready.pdf)* <br />
           Deepak Gupta, Asif Ekbal, Pushpak Bhattacharyya <br />
    The 2020 Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP 2020)
 
