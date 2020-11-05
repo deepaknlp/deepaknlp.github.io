@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a 4th-year Ph.D. Student in [Indian Institute of Technology Patna](http://iitp.ac.in/), India. I am advised by [Dr. Asif Ekbal](https://www.iitp.ac.in/~asif/) and [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/).
+I am a final-year Ph.D. Student in [Indian Institute of Technology Patna](http://iitp.ac.in/), India. I am advised by [Dr. Asif Ekbal](https://www.iitp.ac.in/~asif/) and [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/).
 
 
 <p align="justify">
@@ -18,8 +18,8 @@ My research aims at developing sophisticated system which can understand the nat
 
 
 **Recent News**
-* Our paper *"A Deep Neural Network Framework for English Hindi Question Answering"* has been accepted to be appear in Transaction on Asian and Low-Resource Language Information Processing ([TALLIP](https://tallip.acm.org/)).
-* Our paper *"Code-Mixed Question Generation and a Neural Framework for Code-Mixed Question Answering"* has been accepted to be appear in 22nd International Conference on Computational Natural Language Learning [CoNLL 2018](http://www.conll.org/2018).
-* Visited [Microsoft Research, Montreal](https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/) as a research intern.
-* Our paper *"Can Taxonomy Help? Improving Semantic Question Matching using Question Taxonomy"* has been accepted to be appear in 27th International Conference on Computational Linguistics [COLING 2018](http://coling2018.org/).
-* Our paper *"Semantic Question Matching in Data Constrained Environment"* has been accepted to be appear in 21st International Conference on Text, Speech and Dialogue [TSD 2018](https://www.tsdconference.org/tsd2018/).
+
+* Our paper *"Reinforced Multi-task Approach for Multi-hop Question Generation"* has been accepted to be appear in COLING 2020.
+* Our paper *"A Semi-supervised Approach to Generate the Code-Mixed Text using Pre-trained Encoder and Transfer Learning"* has been accepted to be appear in Findings of EMNLP 2020.
+* Our paper *"Hierarchical Deep Multi-modal Network for Medical Visual Question Answering"* has been accepted in Expert Systems with Applications, Elsevier Journals (IF: 5.452).
+* Our paper *"A Unified Framework for Multilingual and Code-Mixed Visual Question Answering"* has been accepted to be appear in AACL-IJCNLP 2020.
