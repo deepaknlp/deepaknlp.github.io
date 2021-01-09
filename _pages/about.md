@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-
-I am a final-year Ph.D. Student in [Indian Institute of Technology Patna](http://iitp.ac.in/), India. I am advised by [Dr. Asif Ekbal](https://www.iitp.ac.in/~asif/) and [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/).
+I am post-doctoral researcher at [National Library of Medicine](https://www.nlm.nih.gov/), [National Institues of Health](https://www.nih.gov/), USA. I finished my PhD from [Indian Institute of Technology Patna](http://iitp.ac.in/), India. I was advised by [Dr. Asif Ekbal](https://www.iitp.ac.in/~asif/) and [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/).
 
 
 <p align="justify">
-My research aims at developing sophisticated system which can understand the natural language and take an intelligent decision - more focussed on question answering and machine reading comprehension problem. I am working to develop the deep learning based solution for multi-lingual (Indian and Europian languages) and Code-Mixed question answering. To better facilitate the end-user services (virtual assistant, medical assistant etc.) a system should be able to understand and take the decision in multilingual and code-mixed environments. 
+My research aims at developing question answering systems focused biomedical and healthcare domains. In my PhD, I worked on building
+sophisticated system which can understand the natural language and take an intelligent decision - more focussed on question answering and machine reading comprehension problem. I worked on developing the deep learning based solution for multi-lingual (Indian and Europian languages) and Code-Mixed question answering. 
 </p>
 
 
