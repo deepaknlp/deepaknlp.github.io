@@ -12,8 +12,8 @@ main:
   - title: "CV"
     url: /cv/    
     
-  - title: "Services"
-    url: /services/
+  - title: "Resources"
+    url: /resources/
     
   - title: "Presentation"
     url: /talks/
