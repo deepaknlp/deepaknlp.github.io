@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral researcher at [National Library of Medicine](https://www.nlm.nih.gov/), [National Institutes of Health](https://www.nih.gov/), USA. I finished my PhD from [Indian Institute of Technology Patna](http://iitp.ac.in/), India. I was advised by [Dr. Asif Ekbal](https://www.iitp.ac.in/~asif/) and [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/).
+I am a post-doctoral researcher at [National Library of Medicine](https://www.nlm.nih.gov/), [National Institutes of Health](https://www.nih.gov/), USA. I completed my PhD from [Indian Institute of Technology Patna](http://iitp.ac.in/), India under [Dr. Asif Ekbal](https://www.iitp.ac.in/~asif/) and [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/).
 
 
 <p align="justify">
-My research aims at developing question answering systems focused biomedical and healthcare domains. In my PhD, I worked on building
-sophisticated system which can understand the natural language and take an intelligent decision - more focussed on question answering and machine reading comprehension problem. I worked on developing the deep learning based solution for multi-lingual (Indian and Europian languages) and Code-Mixed question answering. 
+My primary research interests are natural language processing, machine learning, with a focus on multilingual and multimodal artificial intelligence (AI). I seek to build efficient machine learning methods to solve challenging multilingual and multimodal AI problems that are pervasive in real-world application scenarios such as virtual assistants, clinical decision making etc.
 </p>
 
 
