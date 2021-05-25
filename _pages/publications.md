@@ -6,7 +6,7 @@ author_profile: true
 ---
 * *[Reinforcement Learning for Abstractive Question Summarization with Question-aware Semantic Rewards]()* <br />
           Deepak Gupta<sup>*</sup>, Shweta Yadav<sup>*</sup>, Asma Ben Abacha and Dina Demner-Fushman <br />
-   The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021)<br />
+   The 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021)<br />
    <sup>*</sup>Equal contributions
 
 * *[NLM at MEDIQA 2021: Transfer Learning-based Approaches for Consumer Question and Multi-Answer Summarization](https://www.aclweb.org/anthology/2021.bionlp-1.34/)* <br />
