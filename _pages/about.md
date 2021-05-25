@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral researcher at [National Library of Medicine](https://www.nlm.nih.gov/), [National Institutes of Health](https://www.nih.gov/), USA. I completed my PhD from [Indian Institute of Technology Patna](http://iitp.ac.in/), India under [Dr. Asif Ekbal](https://www.iitp.ac.in/~asif/) and [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/).
+I am a postdoctoral research fellow at [National Library of Medicine](https://www.nlm.nih.gov/), [National Institutes of Health](https://www.nih.gov/), USA. I completed my PhD from [Indian Institute of Technology Patna](http://iitp.ac.in/), India under [Dr. Asif Ekbal](https://www.iitp.ac.in/~asif/) and [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/).
 
 
 <p align="justify">
