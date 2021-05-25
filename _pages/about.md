@@ -12,7 +12,7 @@ I am a post-doctoral researcher at [National Library of Medicine](https://www.nl
 
 
 <p align="justify">
-My primary research interests are natural language processing, machine learning, with a focus on multilingual and multimodal artificial intelligence (AI). I seek to build efficient machine learning methods to solve challenging multilingual and multimodal AI problems that are pervasive in real-world application scenarios such as virtual assistants, clinical decision making etc.
+My primary research interests are natural language processing and machine learning with a focus on multilingual and multimodal artificial intelligence (AI). I seek to build efficient machine learning methods to solve challenging multilingual and multimodal AI problems that are pervasive in real-world application scenarios such as virtual assistants, clinical decision making etc.
 </p>
 
 
