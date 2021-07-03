@@ -4,21 +4,32 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* *[Reinforcement Learning for Abstractive Question Summarization with Question-aware Semantic Rewards]()* <br />
+* *[Reinforcement Learning for Abstractive Question Summarization with Question-aware Semantic Rewards](https://arxiv.org/abs/2107.00176)* <br />
           Deepak Gupta<sup>*</sup>, Shweta Yadav<sup>*</sup>, Asma Ben Abacha and Dina Demner-Fushman <br />
    The 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021)<br />
    <sup>*</sup>Equal contributions
+
+* *[Question-aware Transformer Models for Consumer Health Question Summarization](https://arxiv.org/abs/2106.00219)* <br />
+          Deepak Gupta<sup>*</sup>, Shweta Yadav<sup>*</sup>, Asma Ben Abacha and Dina Demner-Fushman <br />
+  preprint<br />
+   <sup>*</sup>Equal contributions
+   
 
 * *[NLM at MEDIQA 2021: Transfer Learning-based Approaches for Consumer Question and Multi-Answer Summarization](https://www.aclweb.org/anthology/2021.bionlp-1.34/)* <br />
          Shweta Yadav<sup>*</sup>,  Deepak Gupta<sup>*</sup> and Mourad Sarrouti<sup>*</sup> <br />
    BioNLP at NAACL 2021<br />
    <sup>*</sup>Equal contributions
 
+* *[NLM at BioASQ Synergy 2021: Deep Learning-based Methods for Biomedical Semantic Question Answering about COVID-19]()* <br />
+          Mourad Sarrouti, Deepak Gupta, Asma Ben Abacha and Dina Demner-Fushman <br />
+    Conference and Labs of the Evaluation Forum, September 21--24, 2021, Bucharest, Romania (CLEF 2021)<br />
+   
+
 * *[Reinforced Multi-task Approach for Multi-hop Question Generation](https://arxiv.org/pdf/2004.02143.pdf)* <br />
           Deepak Gupta, Hardik Chauhan, Akella Ravi Tej, Asif Ekbal, Pushpak Bhattacharyya <br />
    The 28th International Conference on Computational Linguistics (COLING 2020)
  
-* *[A Semi-supervised Approach to Generate the Code-Mixed Text using Pre-trained Encoder and Transfer Learning](https://github.com/deepaknlp/deepaknlp.github.io/raw/master/files/EMNLP_Code_Mixed_Camera_Ready.pdf)* <br />
+* *[A Semi-supervised Approach to Generate the Code-Mixed Text using Pre-trained Encoder and Transfer Learning](https://aclanthology.org/2020.findings-emnlp.206/)* <br />
           Deepak Gupta, Asif Ekbal, Pushpak Bhattacharyya <br />
    The 2020 Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP 2020)
 
