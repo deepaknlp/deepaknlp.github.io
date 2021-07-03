@@ -22,7 +22,7 @@ author_profile: true
 
 * *[NLM at BioASQ Synergy 2021: Deep Learning-based Methods for Biomedical Semantic Question Answering about COVID-19]()* <br />
           Mourad Sarrouti, Deepak Gupta, Asma Ben Abacha and Dina Demner-Fushman <br />
-    Conference and Labs of the Evaluation Forum, September 21--24, 2021, Bucharest, Romania (CLEF 2021)<br />
+    Conference and Labs of the Evaluation Forum, Bucharest, Romania (CLEF 2021)<br />
    
 
 * *[Reinforced Multi-task Approach for Multi-hop Question Generation](https://arxiv.org/pdf/2004.02143.pdf)* <br />
