@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* *[Towards Developing a Multilingual and Code-Mixed Visual Question Answering System by Knowledge Distillation”]()* <br />
+* *[Towards Developing a Multilingual and Code-Mixed Visual Question Answering System by Knowledge Distillation]()* <br />
           Deepak Gupta<sup>*</sup>, Humair Raj Khan<sup>*</sup>, Asif Ekbal <br />
    The 2021 Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP 2021)<br />
    <sup>*</sup>Equal contributions
