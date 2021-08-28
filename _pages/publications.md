@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* *[Towards Developing a Multilingual and Code-Mixed Visual Question Answering System by Knowledge Distillation”]()* <br />
+          Deepak Gupta<sup>*</sup>, Humair Raj Khan<sup>*</sup>, Asif Ekbal <br />
+   The 2021 Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP 2021)<br />
+   <sup>*</sup>Equal contributions
+   
 * *[Reinforcement Learning for Abstractive Question Summarization with Question-aware Semantic Rewards](https://arxiv.org/abs/2107.00176)* <br />
           Deepak Gupta<sup>*</sup>, Shweta Yadav<sup>*</sup>, Asma Ben Abacha and Dina Demner-Fushman <br />
    The 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021)<br />
