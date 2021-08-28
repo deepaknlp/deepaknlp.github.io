@@ -18,7 +18,8 @@ My primary research interests are natural language processing and machine learni
 
 **Recent News**
 
-* Our paper *"[Reinforcement Learning for Abstractive Question Summarization with Question-aware Semantic Rewards]()"* has been accepted to be appear in **ACL 2021**.
+* Our paper *"[Towards Developing a Multilingual and Code-Mixed Visual Question Answering System by Knowledge Distillation]()"* has been accepted to be appear in **Findings of EMNLP 2021**.
+* Our paper *"[Reinforcement Learning for Abstractive Question Summarization with Question-aware Semantic Rewards](https://aclanthology.org/2021.acl-short.33/)"* has been accepted to be appear in **ACL 2021**.
 * Our paper *"[Reinforced Multi-task Approach for Multi-hop Question Generation](https://arxiv.org/pdf/2004.02143.pdf)"* has been accepted to be appear in **COLING 2020**.
 * Our paper *"[A Semi-supervised Approach to Generate the Code-Mixed Text using Pre-trained Encoder and Transfer Learning](https://github.com/deepaknlp/deepaknlp.github.io/raw/master/files/EMNLP_Code_Mixed_Camera_Ready.pdf)"* has been accepted to be appear in **Findings of EMNLP 2020**.
 * Our paper *"[Hierarchical Deep Multi-modal Network for Medical Visual Question Answering](https://www.sciencedirect.com/science/article/abs/pii/S0957417420307697)"* has been accepted in **Expert Systems with Applications, Elsevier Journals** (IF: 5.452).
