@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral research fellow at [National Library of Medicine](https://www.nlm.nih.gov/), [National Institutes of Health](https://www.nih.gov/), USA. I completed my PhD from [Indian Institute of Technology Patna](http://iitp.ac.in/), India under [Dr. Asif Ekbal](https://www.iitp.ac.in/~asif/) and [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/).
+I am a postdoctoral research fellow at [National Library of Medicine](https://www.nlm.nih.gov/), [National Institutes of Health](https://www.nih.gov/), USA under the supervision of [Dr. Dina Demner-Fushman](https://www.nlm.nih.gov/research/researchstaff/DemnerFushmanDina.html). I recieved my PhD from [Indian Institute of Technology Patna](http://iitp.ac.in/), India under the supervision of [Dr. Asif Ekbal](https://www.iitp.ac.in/~asif/) and [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/).
 
 
 <p align="justify">
@@ -18,7 +18,7 @@ My primary research interests are natural language processing and machine learni
 
 **Recent News**
 
-* Our paper *"[Towards Developing a Multilingual and Code-Mixed Visual Question Answering System by Knowledge Distillation]()"* has been accepted to be appear in **Findings of EMNLP 2021**.
+* Our paper *"[Towards Developing a Multilingual and Code-Mixed Visual Question Answering System by Knowledge Distillation](https://arxiv.org/pdf/2109.04653.pdf)"* has been accepted to be appear in **Findings of EMNLP 2021**.
 * Our paper *"[Reinforcement Learning for Abstractive Question Summarization with Question-aware Semantic Rewards](https://aclanthology.org/2021.acl-short.33/)"* has been accepted to be appear in **ACL 2021**.
 * Our paper *"[Reinforced Multi-task Approach for Multi-hop Question Generation](https://arxiv.org/pdf/2004.02143.pdf)"* has been accepted to be appear in **COLING 2020**.
 * Our paper *"[A Semi-supervised Approach to Generate the Code-Mixed Text using Pre-trained Encoder and Transfer Learning](https://github.com/deepaknlp/deepaknlp.github.io/raw/master/files/EMNLP_Code_Mixed_Camera_Ready.pdf)"* has been accepted to be appear in **Findings of EMNLP 2020**.
