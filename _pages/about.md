@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral research fellow at [National Library of Medicine](https://www.nlm.nih.gov/), [National Institutes of Health](https://www.nih.gov/), USA under the supervision of [Dr. Dina Demner-Fushman](https://www.nlm.nih.gov/research/researchstaff/DemnerFushmanDina.html). I recieved my PhD from [Indian Institute of Technology Patna](http://iitp.ac.in/), India under the supervision of [Dr. Asif Ekbal](https://www.iitp.ac.in/~asif/) and [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/).
+I am a Research Scientist at [National Library of Medicine (NLM)](https://www.nlm.nih.gov/), [National Institutes of Health (NIH)](https://www.nih.gov/) working on biomedical NLP. Previously, I was a postdoctoral research fellow at NLM under the supervision of [Dr. Dina Demner-Fushman](https://www.nlm.nih.gov/research/researchstaff/DemnerFushmanDina.html). I received my Ph.D. in Computer Science from the Indian Institute of Technology Patna, India, in 2020.
 
 
 <p align="justify">
-My primary research interests are natural language processing and machine learning with a focus on multilingual and multimodal artificial intelligence (AI). I seek to build efficient machine learning methods to solve challenging multilingual and multimodal AI problems that are pervasive in real-world application scenarios such as virtual assistants, clinical decision making etc.
+My research interests include multimodal learning, natural language processing, and deep learning with an emphasis on question answering and summarization for clinical decision making and education. I have also worked on question answering and text generation in multilingual and code-mixed settings. 
 </p>
 
 
