@@ -4,6 +4,24 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* *[Question-aware Transformer Models for Consumer Health Question Summarization](https://www.sciencedirect.com/science/article/pii/S1532046422000569)* <br />
+          Deepak Gupta<sup>*</sup>, Shweta Yadav<sup>*</sup>, Asma Ben Abacha and Dina Demner-Fushman <br />
+  Journal of Biomedical Informatics<br />
+   <sup>*</sup>Equal contributions
+
+* *[Overview of the MedVidQA 2022 Shared Task on Medical Video Question-Answering](https://aclanthology.org/2022.bionlp-1.25/)* <br />
+          Deepak Gupta and Dina Demner-Fushman <br />
+  Proceedings of the 21st Workshop on Biomedical Language Processing<br />
+
+* *[A Dataset for Medical Instructional Video Classification and Question Answering](https://arxiv.org/pdf/2201.12888)* <br />
+          Deepak Gupta, Kush Attal, Dina Demner-Fushman <br />
+  pre-print<br />
+
+* *[CHQ-Summ: A Dataset for Consumer Healthcare Question Summarization](https://arxiv.org/pdf/2206.06581)* <br />
+          Shweta Yadav, Deepak Gupta, Dina Demner-Fushman <br />
+  pre-print<br />
+ 
+
 * *[Towards Developing a Multilingual and Code-Mixed Visual Question Answering System by Knowledge Distillation](https://arxiv.org/pdf/2109.04653.pdf)* <br />
           Deepak Gupta<sup>*</sup>, Humair Raj Khan<sup>*</sup>, Asif Ekbal <br />
    The 2021 Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP 2021)<br />
@@ -14,11 +32,6 @@ author_profile: true
    The 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021)<br />
    <sup>*</sup>Equal contributions
 
-* *[Question-aware Transformer Models for Consumer Health Question Summarization](https://arxiv.org/abs/2106.00219)* <br />
-          Deepak Gupta<sup>*</sup>, Shweta Yadav<sup>*</sup>, Asma Ben Abacha and Dina Demner-Fushman <br />
-  preprint<br />
-   <sup>*</sup>Equal contributions
-   
 
 * *[NLM at MEDIQA 2021: Transfer Learning-based Approaches for Consumer Question and Multi-Answer Summarization](https://www.aclweb.org/anthology/2021.bionlp-1.34/)* <br />
          Shweta Yadav<sup>*</sup>,  Deepak Gupta<sup>*</sup> and Mourad Sarrouti<sup>*</sup> <br />
