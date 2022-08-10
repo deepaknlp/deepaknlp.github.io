@@ -11,7 +11,7 @@ author_profile: true
 
 * *[Overview of the MedVidQA 2022 Shared Task on Medical Video Question-Answering](https://aclanthology.org/2022.bionlp-1.25/)* <br />
           Deepak Gupta and Dina Demner-Fushman <br />
-  Proceedings of the 21st Workshop on Biomedical Language Processing<br />
+  Proceedings of the BioNLP, ACL 2022<br />
 
 * *[A Dataset for Medical Instructional Video Classification and Question Answering](https://arxiv.org/pdf/2201.12888)* <br />
           Deepak Gupta, Kush Attal, Dina Demner-Fushman <br />
