@@ -17,7 +17,7 @@ My research interests include multimodal learning, natural language processing, 
 
 
 **Recent News**
-* We oraganized the shared task on *[Medical Video Question Answering](https://medvidqa.github.io/)* in Bio-NLP, ACL 2022.
+* We organized the shared task on *[Medical Video Question Answering](https://medvidqa.github.io/)* in Bio-NLP, ACL 2022.
 * Our paper *"[Question-aware transformer models for consumer health question summarization](https://www.sciencedirect.com/science/article/pii/S1532046422000569)"* has been accepted in **Journal of Biomedical Informatics**.
 * Our paper *"[Towards Developing a Multilingual and Code-Mixed Visual Question Answering System by Knowledge Distillation](https://arxiv.org/pdf/2109.04653.pdf)"* has been accepted to be appear in **Findings of EMNLP 2021**.
 * Our paper *"[Reinforcement Learning for Abstractive Question Summarization with Question-aware Semantic Rewards](https://aclanthology.org/2021.acl-short.33/)"* has been accepted to be appear in **ACL 2021**.
