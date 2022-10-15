@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* *[Medical Image Retrieval via Nearest Neighbor Search on Pre-trained Image Features](https://arxiv.org/abs/2210.02401)* <br />
+          Deepak Gupta, Russell Loane, Soumya Gayen, Dina Demner-Fushman <br />
+   pre-print
+   
 * *[Question-aware Transformer Models for Consumer Health Question Summarization](https://www.sciencedirect.com/science/article/pii/S1532046422000569)* <br />
           Deepak Gupta<sup>*</sup>, Shweta Yadav<sup>*</sup>, Asma Ben Abacha and Dina Demner-Fushman <br />
   Journal of Biomedical Informatics<br />
