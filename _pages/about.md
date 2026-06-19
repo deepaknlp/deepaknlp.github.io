@@ -12,15 +12,14 @@ I am a Research Scientist at [National Library of Medicine (NLM)](https://www.nl
 
 
 <p align="justify">
-My research interests include multimodal learning, natural language processing, and deep learning with an emphasis on question answering and summarization for clinical decision making and education. I have also worked on question answering and text generation in multilingual and code-mixed settings. 
+My research interests include multimodal AI, natural language processing, and foundation models for healthcare. I am interested in developing methods that help machines understand and generate medical information from text, images, and video. My work has focused on medical question answering, evidence-grounded generation, multimodal reasoning, and summarization for clinical decision support, education, and consumer health. I have also worked on question answering and text generation in multilingual and code-mixed settings.
 </p>
 
 
 **Recent News**
-* We organized the shared task on *[Medical Video Question Answering](https://medvidqa.github.io/)* in Bio-NLP, ACL 2022.
-* Our paper *"[Question-aware transformer models for consumer health question summarization](https://www.sciencedirect.com/science/article/pii/S1532046422000569)"* has been accepted in **Journal of Biomedical Informatics**.
-* Our paper *"[Towards Developing a Multilingual and Code-Mixed Visual Question Answering System by Knowledge Distillation](https://arxiv.org/pdf/2109.04653.pdf)"* has been accepted to be appear in **Findings of EMNLP 2021**.
-* Our paper *"[Reinforcement Learning for Abstractive Question Summarization with Question-aware Semantic Rewards](https://aclanthology.org/2021.acl-short.33/)"* has been accepted to be appear in **ACL 2021**.
-* Our paper *"[Reinforced Multi-task Approach for Multi-hop Question Generation](https://arxiv.org/pdf/2004.02143.pdf)"* has been accepted to be appear in **COLING 2020**.
-* Our paper *"[A Semi-supervised Approach to Generate the Code-Mixed Text using Pre-trained Encoder and Transfer Learning](https://github.com/deepaknlp/deepaknlp.github.io/raw/master/files/EMNLP_Code_Mixed_Camera_Ready.pdf)"* has been accepted to be appear in **Findings of EMNLP 2020**.
-* Our paper *"[A Unified Framework for Multilingual and Code-Mixed Visual Question Answering](https://www.aclweb.org/anthology/2020.aacl-main.90/)"* has been accepted to be appear in **AACL-IJCNLP 2020**.
+* We are organizing the shared task on *[Medical Generative Video Question Answering (MedGenVidQA)](https://medgenvidqa.github.io/)* at **BioNLP, ACL 2026**.
+* I am serving as **Session Chair** at **ACL 2026**, **Area Chair** for **LREC-COLING 2026**, and **Program Committee Member** for **NeurIPS 2026**.
+* Delivered the keynote address at MAiTRI 2026, presenting "Towards Grounded and Multimodal Biomedical Question Answering."
+* I served as an **Area Chair** for **COLING 2025** and co-organized the **CL4Health Workshop 2025 and 2026**.
+* The preprint of our paper *"[BioACE: An Automated Framework for Biomedical Answer and Citation Evaluations](https://arxiv.org/abs/2602.04982)"* is now available on arXiv.
+
